@@ -7,7 +7,6 @@ An AI-powered web application that predicts whether a telecom customer is likely
 
 This project is built using Python, Streamlit, Scikit-learn, Pandas, and Plotly with an interactive dashboard and batch prediction system.
 
----
 
 ## 🚀 Features
 
@@ -64,16 +63,23 @@ Payment method
 Tech support
 Online security
 Demographic details
+
 ▶️ How to Run the Project
+
 1️⃣ Clone Repository
 git clone https://github.com/your-username/telco-customer-churn-predictor.git
+
 2️⃣ Move into Project Folder
 cd telco-customer-churn-predictor
+
 3️⃣ Install Required Libraries
 pip install -r requirements.txt
+
 4️⃣ Run Streamlit App
 streamlit run app.py
+
 📸 Application Modules
+
 📊 Analytics Dashboard
 Churn statistics
 Revenue insights
